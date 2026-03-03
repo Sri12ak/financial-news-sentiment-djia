@@ -20,9 +20,6 @@ Regression and Support Vector Machine classifiers.
 - **Size:** ~2,000 trading days, 25 headlines per day
 - **Label:** Binary — DJIA closed Up (1) or Down (0)
 
-> The dataset is not included in this repo due to size. Download it from Kaggle 
-> and place it in the `/data` folder.
-
 ---
 
 ## Models Used
